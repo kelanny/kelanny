@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Kelvin M. Chuchu
 
-<!--
-**kelanny/kelanny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Full-Stack Developer (Backend-focused)** | 🎶 **Musician & Educator**  
 
-Here are some ideas to get you started:
+I build practical, production-minded applications and love teaching others how to build them.  
+My work blends **backend engineering**, **education**, and **music** into real-world projects.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🚀 Backend engineering with **Python (Flask/Django)** & REST APIs  
+- 🗄️ Databases: **PostgreSQL | MySQL | MongoDB**  
+- 🐳 Deployment: **Docker | Nginx | Gunicorn**  
+- 📊 Data & automation with **Pandas, Excel, web scraping**  
+- 🎓 Tech educator — designing hands-on learning hubs, interactive quizzes, and youth programs  
+- 🎵 Music instructor — teaching piano, guitar, bass, drums, and leading church/school bands  
+
+### 🌱 Currently working on  
+- 🎯 [Funzika — Interactive Quiz App](#) (Flask + MySQL + REST API)  
+- 📖 Beginner’s course on **WebSockets with real-world examples**  
+- 🎶 Music Playbook app to track songs, practice, and learning progress  
+
+### 🎼 Outside of code  
+When I’m not engineering systems, you’ll find me teaching music, leading bands, or designing digital education programs for kids and adults.  
+
+📫 Reach me: [LinkedIn](https://www.linkedin.com/in/kelvin-nburu-90aa92136) | [Twitter](https://x.com/mburukelvin17) | **[Portfolio](#)**
